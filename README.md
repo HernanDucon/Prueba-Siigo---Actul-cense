@@ -16,7 +16,7 @@ This static landing page is engineered using clean, semantic HTML5 and scalable 
 
 
 ## Figma references
-* ![Actualícese Landing Page](https://www.figma.com/design/poKgxjKt5W3k7Drp0ymc6w/Actual%C3%ADcese-%E2%80%94-Prueba-T%C3%A9cnica?node-id=0-1&t=SIz4HZ6fex1ENeGA-1)
+* [Actualícese Landing Page](https://www.figma.com/design/poKgxjKt5W3k7Drp0ymc6w/Actual%C3%ADcese-%E2%80%94-Prueba-T%C3%A9cnica?node-id=0-1&t=SIz4HZ6fex1ENeGA-1)
 
 ## 🛠️ Project Structure
 
