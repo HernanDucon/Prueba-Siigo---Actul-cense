@@ -10,8 +10,7 @@ challenge. It is **not** licensed under an open-source license.
 ## Permitted Use
 
 Permission is granted, free of charge, to the organization and individuals
-directly involved in reviewing this challenge submission ("the Reviewer")
-to:
+directly involved in reviewing this challenge submission to:
 
 - View, clone, and run this code solely for the purpose of evaluating the
   author's skills as part of a hiring process.
