@@ -1,6 +1,6 @@
-# Actualícese Automation — Landing Page
+# Actualícese — Landing Page
 
-An advanced, responsive landing page platform for **Actualícese Automation S.A.S.**, showcasing intelligent accounting tools, automated tax workbooks (Excel/Word), and premium subscription packages tailored for Colombian accountants.
+An advanced, responsive landing page platform for **Actualícese**, showcasing intelligent accounting tools, automated tax workbooks (Excel/Word), and premium subscription packages tailored for Colombian accountants.
 
 ![Actualícese Automation Dashboard Mockup](hero-mockup.jpg)
 
@@ -13,9 +13,10 @@ This static landing page is engineered using clean, semantic HTML5 and scalable 
 *   **6 Dynamic Product Cards**: Showcase core utilities with accurate pricing structures in COP.
 *   **Interactive Plan Matrix**: High-converting cost-benefit comparison tables outlining subscription savings (47% ROI).
 *   **Fully Responsive Infrastructure**: Fluid breakpoints optimizing experience across Desktop, Tablet, and Mobile devices.
-*   **Native Accordion FAQ Layer**: Implemented using optimized `<details>` and `<summary>` components for native SEO indexing.
 
----
+
+## Figma references
+* ![Actualícese Landing Page](https://www.figma.com/design/poKgxjKt5W3k7Drp0ymc6w/Actual%C3%ADcese-%E2%80%94-Prueba-T%C3%A9cnica?node-id=0-1&t=SIz4HZ6fex1ENeGA-1)
 
 ## 🛠️ Project Structure
 
